@@ -1,0 +1,12 @@
+{
+    "name": "fico/phph2s2",
+    "require": {
+        "hidehalo/nanoid-php": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "ficopang",
+            "email": "pangestufico@gmail.com"
+        }
+    ]
+}
